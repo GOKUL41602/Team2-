@@ -1,4 +1,12 @@
 We are Team2
 A dream does not become reality through magic; it takes sweat, determination, and hard work.
 We are The cloud assets
+<<<<<<< HEAD
 I'm Gokul.
+=======
+<<<<<<< HEAD
+Dhivya S
+=======
+Dhivakar
+>>>>>>> d6a1ef250bb8d0f559ea9968b6dc2419cad91044
+>>>>>>> 4af7f354be632603478c46fb89c920b93d772c53
